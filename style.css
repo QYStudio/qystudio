@@ -1,0 +1,52 @@
+.head{
+    color:white;
+    background-color: #003344;
+    font-size: 42px;
+    font-family: SimSun;
+    text-align: center;
+    margin:2px;
+    padding:2px;
+    border-radius:15px;
+    box-shadow:5px 5px 5px #000000;
+    text-shadow:15px 15px 15px #000000;
+  }
+  
+  .box{
+    width:280px;
+    color:white;
+    background-color: #000000;
+    margin:5px;
+    padding:5px;
+    display:inline-block;
+    vertical-align: middle;
+    text-align: center;
+    margin-top: 10px;
+    height:150px;
+    line-height: 50px;
+    outline-color: #000000;
+    border-radius: 20px;
+    font-family: serif;
+    font-size:35px;
+  }
+  
+  hr{
+    height:2px;
+    background-color: #000000;
+  }
+  
+  .copyright{
+    font-family: Verdana;
+    text-align: center;
+    color:#000000
+  }
+
+  img{
+    width:4%
+  }
+
+  .box>.div1{
+    text-align: left;
+    color:white;
+    font-family:serif;
+    font-size:25px;
+  }
